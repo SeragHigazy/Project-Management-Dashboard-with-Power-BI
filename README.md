@@ -25,7 +25,7 @@ This interactive dashboard was built using Power BI to monitor and analyze the p
 
 ## 📷 Dashboard Preview
 
-![Dashboard Screenshot](dashboard.png)
+![Dashboard Screenshot](images/dashboard.png)
 
 ---
 
